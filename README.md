@@ -123,3 +123,11 @@
 > - All download files are blocked via `.gitignore`
 >
 > Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
+
+---
+
+## 📦 فایل‌ها
+
+1. [27945400-5941-11ea-9374-ea2647f1bae4](https://github.com/warriorgamer659/-/tree/main/downloads/27945400-5941-11ea-9374-ea2647f1bae4)
+
+---
